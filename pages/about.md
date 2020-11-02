@@ -72,7 +72,7 @@ he/him
         <div class="span2">
         <a href="../assets/pics/karl_2014-03-30.jpg">
             <img src="../assets/pics/karl_2014-03-30_small.jpg"
-                  title="Karl Broman" alt="Karl Broman"/></a>
+                  title="Shweta Ramdas" alt="Shweta Ramdas"/></a>
         </div>
     </div>
 </div>
