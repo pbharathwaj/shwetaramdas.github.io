@@ -9,39 +9,20 @@ keywords: Ramdas
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://github.com/shwetaramdas">github</a></li>
-          <li><a href="https://kbroman.org/blog">blog</a></li>
           <li><a href="https://twitter.com/shramdas">@shramdas</a></li>
       </ul>
   </div>
 </div>
 
-<table class="wide">
-<tr>
-  <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/mppdiag_fig4.html">
-        <img src="assets/publpics/mppdiag_fig4.png" alt="Broman et
-        al. (2019) Fig 4" title="Broman et al. (2019) Fig 4"/>
-    </a>
-  </td>
-</tr>
-<tr>
-  <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2015) Fig 7" title="Broman et al. (2015) Fig 7"/>
-    </a>
-  </td>
-  <td class="right">
-    <a href="pages/publpics/rqtl2_fig1.html">
-        <img src="assets/publpics/rqtl2_fig1c.png" alt="Broman et al. (2019) Fig 1c" title="Broman et al. (2019) Fig 1c"/>
-    </a>
-  </td>
-</tr>
-</table>
+Shweta Ramdas is a postdoctoral researcher in the [Department of Genetics](https://www.upenn.edu) at the University of Pennsylvania;
+research in statistical genetics. 
+
+Shweta received a BS in [computational biology](https://nus.edu.sg)
+in 2010, from the National University of Singapore, and a
+PhD in [bioinformatics](https://statistics.berkeley.edu) in 2018, from the
+University of Michigan, Ann Arbor; her PhD advisor was
+[Jun Li](https://www.wehi.edu.au/people/terry-speed).
+
 
 <div class="navbar">
   <div class="navbar-inner">
