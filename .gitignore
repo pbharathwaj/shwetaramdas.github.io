@@ -1,4 +1,13 @@
+# project
 _site
-assets/bigpublpics/Orig/
+.sass-cache
+.vagrant
+
+# general
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
 Gemfile.lock
-assets/favicon/*.ico
+
+beautiful-jekyll-theme-*.gem
