@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: Manu Awasthi
+title: Shweta Ramdas
 
 # Short description of your site
-description: Manu Awasthi; Ashoka University; Samsung Semiconductor; Micron; University of Utah; Webpage; Homepage
+description: Shweta Ramdas; University of Pennsylvania; genetics; genomics; researcher
 
 # Your name to show in the footer
-author: Manu Awasthi
+author: Shweta Ramdas
 
 # --- List of links in the navigation bar --- #
 
@@ -46,14 +46,14 @@ avatar: "/assets/img/manua.jpg"
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "manu.awasthi@ashoka.edu.in"
+  email: "shwetar@pennmedicine.upenn.edu"
 #  facebook: deanattali
 #  github: mnwsth
-  twitter: mnwsth
-  linkedin: manuawasthi
+  twitter: shramdas
+  linkedin: shwetaramdas
   googlescholar: AaMBbMMAAAAJ
   cv: /pubs/CV_MAwasthi.pdf
-  dblp: "Awasthi:Manu"
+#  dblp: "Awasthi:Manu"
 #  rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -80,7 +80,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ManuAwasthi.in"
+#url-pretty: "ManuAwasthi.in"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
