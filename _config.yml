@@ -14,7 +14,6 @@ author: Shweta Ramdas
 navbar-links:
   Research: 
     - Interests: "research"
-    - People: "people"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -52,7 +51,7 @@ social-network-links:
   twitter: shramdas
   linkedin: shwetaramdas
   googlescholar: AaMBbMMAAAAJ
-  cv: /pubs/CV_MAwasthi.pdf
+  cv: /pubs/CV_SRamdas.pdf
 #  dblp: "Awasthi:Manu"
 #  rss: true
 #  reddit: yourname
