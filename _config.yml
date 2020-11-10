@@ -4,7 +4,7 @@
 title: Shweta Ramdas
 
 # Short description of your site
-description: Shweta Ramdas; University of Pennsylvania; genetics; genomics; researcher
+description: Shweta Ramdas; University of Pennsylvania; genetics; genomics; researcher; gene regulation; GLGC
 
 # Your name to show in the footer
 author: Shweta Ramdas
@@ -19,9 +19,10 @@ navbar-links:
 #    - Learn markdown: "https://www.markdowntutorial.com/"
   Teaching: "teaching"
   Publications: "publications"
-  Miscellaneous:
-    - Potpourri : "miscellaneous"
-    - Calendar: "calendar"
+  Outreach: "outreach"
+#  Miscellaneous:
+#    - Outreach : "outreach"
+#    - Calendar: "calendar"
 #    - Links : "links"
 
 
@@ -50,7 +51,7 @@ social-network-links:
 #  github: mnwsth
   twitter: shramdas
   linkedin: shwetaramdas
-  googlescholar: AaMBbMMAAAAJ
+  googlescholar: KIf7ysAAAAAJ
   cv: /pubs/CV_SRamdas.pdf
 #  dblp: "Awasthi:Manu"
 #  rss: true
