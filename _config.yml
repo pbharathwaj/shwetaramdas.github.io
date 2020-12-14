@@ -20,7 +20,7 @@ navbar-links:
   Teaching: "teaching"
   Publications: "publications"
   Outreach: "outreach"
-#  Miscellaneous:
+  Miscellaneous: "miscellaneous"
 #    - Outreach : "outreach"
 #    - Calendar: "calendar"
 #    - Links : "links"
