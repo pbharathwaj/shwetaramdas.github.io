@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous
+title: Outreach
 use-site-title: true
 ---
 ### Mental Health
