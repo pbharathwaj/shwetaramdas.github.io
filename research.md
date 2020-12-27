@@ -18,12 +18,9 @@ In the past, I have worked on projects tying genetic variation to complex phenot
 ### Research Projects
 
 #### Global Lipid Genetics Consortium
-The tool will also be capable of executing application traces across multiple Android versions. (<a href="/pubs/date2018.pdf">DATE 2018</a>, <a href="/pubs/mobicom2018.pdf">MobiCom 2018</a>)
+I am a lead analyst in the Global Lipids Genetic Consortium, working on interpreting GWAS signals to identify causal genes in lipid biology, and study the genetic architecture of complex traits in human populations. My work was selected for a Reviewer's choice award at ASHG2020.
 
 #### Identifying cis-regulatory variation in the Amish population
-
-#### 
-
-
+I'm interested in using founder populations to characterize high-impact regulatory variation in the human genome.
 
 
