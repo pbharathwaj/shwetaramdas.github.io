@@ -10,5 +10,5 @@ use-site-title: true
 * <a href="https://science.sciencemag.org/content/287/5459/1777.long">Journey to the center of biology</a>
 * 
 
-### Reading I keep going back to
+### Content I keep going back to
 * <a href="https://www.youtube.com/watch?v=8CrOL-ydFMI">This is Water</a>
